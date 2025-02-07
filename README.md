@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá, bem-vindo ao meu Github! 👋
+Sou estudante de desenvolvimento de software em busca constante de aperfeiçoamento, em breve estarei melhorando esse README.md...
 <!--
 **manumartinsdlima/manumartinsdlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
