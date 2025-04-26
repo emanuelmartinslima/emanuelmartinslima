@@ -1,4 +1,5 @@
-<h2>Olá! Me chamo Emanuel, sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes~</h2>
+<h2>Olá! Me chamo Emanuel</h2>
+<p>Sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes~</p>
 
 ###
 
@@ -10,6 +11,7 @@
 ###
 
 <br clear="both">
+<hr>
 
 <img src="https://raw.githubusercontent.com/emanuelmartinslima/emanuelmartinslima/output/snake.svg" alt="Snake animation" />
 
