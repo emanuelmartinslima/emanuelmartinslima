@@ -1,5 +1,4 @@
-<h1>Olá! Me chamo Emanuel, sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes~</h1>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2>Olá! Me chamo Emanuel, sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes~</h2>
 
 ###
 
