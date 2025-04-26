@@ -1,4 +1,4 @@
-name: Generate snake animation
+ename: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
@@ -21,7 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.emanuelmartinslima }}
           outputs: dist/snake.svg?palette=github-dark
 
 
@@ -31,4 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
