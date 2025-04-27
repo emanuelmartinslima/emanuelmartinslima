@@ -1,5 +1,20 @@
-<h2>Olá! Me chamo Emanuel</h2>
-<p>Sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes~</p>
+<h2>Olá! Me chamo Emanuel ✨</h2>
+<p>
+Comecei minha jornada na área de TI em 2022, quando entrei em um curso técnico em DS pela <strong>ETEC</strong> de Sapopemba, mesmo com pouco conhecimento em lógica de programação, fui <strong>resiliente</strong> e concluí ele.
+<br>
+<br>
+Meus próximos passos foram: ingressar, em 2024, na <strong>FATEC</strong> Zona Leste, no curso de DSM, e, em 2025, no <strong>PROA</strong>, no curso de Desenvolvedor FullStack Web com Java.
+<br>
+<br>
+Acredito que o que me move para me aprimorar profissionalmente é a minha <strong>paixão</strong> por <strong>desafios</strong> e pela <strong>criatividade</strong> que a tecnologia proporciona quando a utilizamos para <strong>desenvolver soluções</strong>.
+</p>
+
+- 📖💻 Estudando: ReactJS
+- 🧑🏻‍💻✨🚀 Projetos em andamento: EcoBalance🍃 e Gatorion😺🌠
+
+<p>Sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes🌐~</p>
+<a href="https://www.linkedin.com/in/emanuel-lima-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a href="https://www.instagram.com/mn._.lima"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 
 <h2>Estatísticas</h2>
 
