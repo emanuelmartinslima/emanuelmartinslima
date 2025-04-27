@@ -13,8 +13,8 @@ Acredito que o que me move para me aprimorar profissionalmente é a minha <stron
 - 🧑🏻‍💻✨🚀 Projetos em andamento: EcoBalance🍃 e Gatorion😺🌠
 
 <p>Sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes🌐~</p>
-<a href="https://www.linkedin.com/in/emanuel-lima-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-<a href="https://www.instagram.com/mn._.lima"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.linkedin.com/in/emanuel-lima-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a target="_blank" href="https://www.instagram.com/mn._.lima"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 
 <h2>Estatísticas</h2>
 
