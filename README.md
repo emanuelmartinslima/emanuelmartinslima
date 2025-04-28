@@ -6,7 +6,7 @@ Comecei minha jornada na área de TI em 2022, quando entrei em um curso técnico
 Meus próximos passos foram: ingressar, em 2024, na <strong>FATEC</strong> Zona Leste, no curso de DSM, e, em 2025, no <strong>PROA</strong>, no curso de Desenvolvedor FullStack Web com Java.
 <br>
 <br>
-Acredito que o que me move para me aprimorar profissionalmente é a minha <strong>paixão</strong> por <strong>desafios</strong> e pela <strong>criatividade</strong> que a tecnologia proporciona quando a utilizamos para <strong>desenvolver soluções</strong>.
+O que me motiva para me aprimorar profissionalmente é a minha <strong>paixão</strong> por <strong>desafios</strong> e pela <strong>criatividade</strong> que a tecnologia proporciona quando a utilizamos para <strong>desenvolver soluções</strong>.
 </p>
 
 - 📖💻 Estudando: ReactJS
