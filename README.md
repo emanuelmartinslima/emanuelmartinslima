@@ -10,7 +10,6 @@ O que me motiva para me aprimorar profissionalmente é a minha <strong>paixão</
 </p>
 
 - 📖💻 Estudando: ReactJS
-- 🧑🏻‍💻✨🚀 Projetos em andamento: EcoBalance🍃 e Gatorion😺🌠
 
 <p>Sinta-se a vontade para dar uma olhada no meu Github e se conectar comigo nessa e em outras redes🌐~</p>
 
